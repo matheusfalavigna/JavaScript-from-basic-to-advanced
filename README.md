@@ -1,2 +1,6 @@
 # JavaScript-from-basic-to-advanced
-Study to learn and improve JavaScript, as it is a language of personal interest and because it is a very flexible language for different areas of expertise.
+Course focused on learning JavaScript. 
+With extra content aimed at html, css and Node.js. 
+Also containing 2 projects.
+
+Objective in doing so is to initiate the necessary knowledge for a front-end career.
